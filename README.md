@@ -1,4 +1,4 @@
-# TIPS Interpreter in C++
+# TIPS Interpreter in C++ / Flex
 This program was written in the fall semester of 2021 for CSE 4714/6714 - Programming languages.
 
 <ins>**Authors:**</ins> The class instructor wrote most of driver.cpp and the makefile. The files parser_tree_nodes.h, lexer.h, prodcutions.h, and rules.l were written by myself, Grant Doty.
